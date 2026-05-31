@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cyberrutas-v3';
+const CACHE_NAME = 'cyberrutas-v2';
 const ASSETS = ['index.html', 'manifest.json', 'icon.png'];
 
 self.addEventListener('install', event => {
