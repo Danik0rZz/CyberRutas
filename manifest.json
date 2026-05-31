@@ -1,10 +1,10 @@
 {
   "name": "CyberRutas 2077",
   "short_name": "CyberRutas",
-  "start_url": "index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#00ffff",
+  "theme_color": "#06111f",
   "orientation": "portrait",
   "icons": [
     {
@@ -17,5 +17,7 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "description": "Panel personal para abrir paradas EMT y paneles ADIF favoritos.",
+  "scope": "./"
 }
